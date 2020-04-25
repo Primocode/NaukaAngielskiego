@@ -397,12 +397,11 @@ ul > li:hover > a {
     display: flex;
     margin: 0 auto;
     padding: 25px 0px 25px 0px;
+    align-items: center;
 }
 
 .about-text {
-    padding: 50px 0px 50px 0px;
     margin: 0 auto;
-    margin: 0px 20px 0x 20px;
     -webkit-transform: skewY(-3deg);
     -ms-transform: skewY(-3deg);
     transform: skewY(-3deg);
